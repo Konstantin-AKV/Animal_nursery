@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b5306fa-2d78-4e7d-8af3-41cb05ce5763" name="Changes" comment="backbone created">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/ConsoleUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/AnimalType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Camel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Camel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Donkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Donkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/HouseAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/HouseAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/PackAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/PackAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimalsPkg/Zoo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OGuoStqeRtNo4TdDM8qWGEWNoW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Zoo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5306fa-2d78-4e7d-8af3-41cb05ce5763" name="Changes" comment="" />
+      <created>1681199418812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681199418812</updated>
+      <workItem from="1681199420559" duration="2879000" />
+      <workItem from="1681288804647" duration="6178000" />
+    </task>
+    <task id="LOCAL-00001" summary="backbone created">
+      <created>1681210180550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681210180550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="backbone created" />
+    <option name="LAST_COMMIT_MESSAGE" value="backbone created" />
+  </component>
+</project>
